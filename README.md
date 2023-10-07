@@ -42,10 +42,3 @@ ng serve
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco:
-
-- Email: seu-email@example.com
-- GitHub: [https://github.com/Angeloabrita](https://github.com/Angeloabrita)
-
