@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/blog-angular.git
+git clone https://github.com/Angeloabrita/dio-angular-blog.git
 cd blog-angular
 ```
 
